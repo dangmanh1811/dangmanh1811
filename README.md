@@ -12,10 +12,17 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXp5ZzlmaWhidzhqa2VsY2Z6NGd1MmM3OG9qOGM2Y3VrNnI2dHAxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kdFKwmwADglUorwrIa/giphy.gif" width="300"/>
 </div>
 
-## About Me
+## 🚀 About Me
 
-- **Name:** Ho Dang Manh
-- **Education:** Studying Artificial Intelligence at FPT University HCMC, Vietnam
-- **Interests:** Research, Machine Learning, Data Science
+Hi there! I'm Manh Dang 👋  
+I'm a passionate Computer Science student who loves exploring the world of **Artificial Intelligence** and **Machine Learning**. I enjoy building innovative solutions, sharing knowledge, and constantly challenging myself with new technologies.
+
+- 🎓 Currently studying **Computer Science**.
+- 🤖 Interested in **AI**, **Machine Learning**, and **Data Science**.
+- 🛠️ Love working with **Python**, **Deep Learning**, and **Backend Development**.
+- 🌱 Always learning and growing, currently exploring **MLOps** and **Cloud Computing**.
+- 📫 Let's connect: [dangmanh1811@gmail.com](mailto:dangmanh1811@gmail.com)
+
+> "Code is like humor. When you have to explain it, it’s bad." – *Cory House*
 
 ### <p align="center">Thanks for visiting my GitHub profile!</p>
