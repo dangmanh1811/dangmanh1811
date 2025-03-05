@@ -14,8 +14,8 @@
 
 ## About Me
 
-- **Name:** Trung Minh Nguyen
-- **Education:** Studying Artificial Intelligence at FPT University, Vietnam
+- **Name:** Ho Dang Manh
+- **Education:** Studying Artificial Intelligence at FPT University HCMC, Vietnam
 - **Interests:** Research, Machine Learning, Data Science
 
 ## My Stats
