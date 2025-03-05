@@ -14,7 +14,6 @@
 
 ## 🚀 About Me
 
-Hi there! I'm Manh Dang 👋  
 I'm a passionate Computer Science student who loves exploring the world of **Artificial Intelligence** and **Machine Learning**. I enjoy building innovative solutions, sharing knowledge, and constantly challenging myself with new technologies.
 
 - 🎓 Currently studying **Computer Science**.
