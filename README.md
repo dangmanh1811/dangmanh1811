@@ -53,10 +53,9 @@
 ## Contribution Graph
 
 <a href="https://github.com/dangmanh1811#gh-light-mode-only">
-  <img src="http://github-profile-summary-cards-dangmanh1811.vercel.app/api/cards/profile-details?username=dangmanh1811&theme=github" width="100%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dangmanh1811&theme=moonlight" width="100%">
 </a>
 <a href="https://github.com/dangmanh1811#gh-dark-mode-only">
   <img src="http://github-profile-summary-cards-dangmanh1811.vercel.app/api/cards/profile-details?username=dangmanh1811&theme=radical" width="100%">
 </a>
-
 ### <p align="center">Thanks for visiting my GitHub profile!</p>
