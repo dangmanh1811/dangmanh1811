@@ -1,21 +1,61 @@
+<p align="center">
+  <a href="https://github.com/nmihtrug#gh-light-mode-only">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=32&duration=4000&pause=500&color=2C72F7&center=true&vCenter=true&width=600&height=55&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Trung!+%F0%9F%87%BB%F0%9F%87%B3;++Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  </a>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/dangmanh1811/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dangmanh1811/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dangmanh1811@gmail.com) 
+  <a href="https://github.com/nmihtrug#gh-dark-mode-only"> 
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=32&duration=4000&pause=500&color=11C4F7&center=true&vCenter=true&width=600&height=55&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Trung!+%F0%9F%87%BB%F0%9F%87%B3;++Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  </a>
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dangmanh1811&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dangmanh1811&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dangmanh1811&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGljeXRoY245b2pqbW1qeDBrMTR0OWZ2NzZzdXZrdW9sNXVsMG94OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cmCEsJZHYBPels360q/giphy.webp" width="300"/>
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## About Me
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dangmanh1811&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- **Name:** Trung Minh Nguyen
+- **Education:** Studying Artificial Intelligence at FPT University, Vietnam
+- **Interests:** Research, Machine Learning, Data Science
 
----
-[![](https://visitcount.itsvg.in/api?id=dangmanh1811&icon=0&color=0)](https://visitcount.itsvg.in)
+## My Stats
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <a href="https://github.com/nmihtrug#gh-light-mode-only">
+    <kbd><img src="https://github-readme-stats-nmihtrug.vercel.app/api?username=nmihtrug&show_icons=true&theme=github&include_all_commits=true&count_private=true&hide_border=true" width = "580px"></kbd>
+  </a>
+  <a href="https://github.com/nmihtrug#gh-dark-mode-only"> 
+    <kbd><img src="https://github-readme-stats-nmihtrug.vercel.app/api?username=nmihtrug&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" width = "580px"></kbd>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/nmihtrug#gh-light-mode-only">
+    <kbd><img src="https://github-readme-stats-nmihtrug.vercel.app/api/top-langs/?username=nmihtrug&layout=compact&theme=github&include_all_commits=true&count_private=true&hide_border=true"  width = "450px"></kbd>
+  </a>
+  <a href="https://github.com/nmihtrug#gh-dark-mode-only"> 
+    <kbd><img src="https://github-readme-stats-nmihtrug.vercel.app/api/top-langs/?username=nmihtrug&layout=donut&theme=radical&include_all_commits=true&count_private=true&hide_border=true"  width = "450px" ></kbd>
+</p>
+
+<p align="center">
+  <a href="https://github.com/nmihtrug#gh-light-mode-only">
+    <kbd><img src="http://github-profile-summary-cards-nmihtrug.vercel.app/api/cards/most-commit-language?username=nmihtrug&theme=github&exclude=shell" width = "400px"></kbd>
+    <kbd><img src="http://github-profile-summary-cards-nmihtrug.vercel.app/api/cards/repos-per-language?username=nmihtrug&theme=github&exclude=shell" width = "400px"></kbd>
+  </a>
+  
+  <a href="https://github.com/nmihtrug#gh-dark-mode-only"> 
+    <kbd><img src="http://github-profile-summary-cards-nmihtrug.vercel.app/api/cards/most-commit-language?username=nmihtrug&theme=radical&exclude=shell" width = "400px"></kbd>
+    <kbd><img src="http://github-profile-summary-cards-nmihtrug.vercel.app/api/cards/repos-per-language?username=nmihtrug&theme=radical&exclude=shell" width = "400px"></kbd>
+  </a>
+</p>
+
+## Contribution Graph
+
+<a href="https://github.com/nmihtrug#gh-light-mode-only">
+  <img src="http://github-profile-summary-cards-nmihtrug.vercel.app/api/cards/profile-details?username=nmihtrug&theme=github" width="100%">
+</a>
+<a href="https://github.com/nmihtrug#gh-dark-mode-only">
+  <img src="http://github-profile-summary-cards-nmihtrug.vercel.app/api/cards/profile-details?username=nmihtrug&theme=radical" width="100%">
+</a>
+
+### <p align="center">Thanks for visiting my GitHub profile!</p>
