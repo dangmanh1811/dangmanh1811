@@ -4,7 +4,7 @@
   </a>
 
   <a href="https://github.com/dangmanh1811#gh-dark-mode-only"> 
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=32&duration=4000&pause=500&color=11C4F7&center=true&vCenter=true&width=600&height=55&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Manh!+%F0%9F%87%BB%F0%9F%87%B3;++Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=32&duration=4000&pause=500&color=11C4F7&center=true&vCenter=true&width=600&height=55&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Manh!+%F0%9F%87%BB%F0%9F%87%B3;++Welcome+to+my+GitHub" alt="Typing SVG" />
   </a>
 </p>
 
