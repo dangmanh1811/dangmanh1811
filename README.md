@@ -19,7 +19,7 @@ I'm a passionate Computer Science student who loves exploring the world of **Art
 - 🎓 Currently studying **Computer Science**.
 - 🤖 Interested in **AI**, **Machine Learning**, and **Data Science**.
 - 🛠️ Love working with **Python**, **Deep Learning**, and **Backend Development**.
-- 🌱 Always learning and growing, currently exploring **MLOps** and **AI Agent**.
+- 🌱 Always learning and growing, currently exploring **MLOps** and **Agentic AI**.
 - 📫 Let's connect: [dangmanh1811@gmail.com](mailto:dangmanh1811@gmail.com)
 
 > "Code is like humor. When you have to explain it, it’s bad." – *Cory House*
