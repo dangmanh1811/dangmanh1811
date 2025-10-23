@@ -23,5 +23,13 @@ I'm a passionate Computer Science student who loves exploring the world of **Art
 - 📫 Let's connect: [dangmanh1811@gmail.com](mailto:dangmanh1811@gmail.com)
 
 > "Code is like humor. When you have to explain it, it’s bad." – *Cory House*
+> ---
+
+> *"You can't connect the dots looking forward; you can only connect them looking backward.  
+> So you have to trust that the dots will somehow connect in your future.  
+> You have to trust in something – your gut, destiny, life, karma, whatever."*  
+> — **Steve Jobs**  
+{: .text-center}
+
 
 ### <p align="center">Thanks for visiting my GitHub profile!</p>
